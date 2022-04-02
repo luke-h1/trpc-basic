@@ -1033,17 +1033,17 @@
   resolved "https://registry.yarnpkg.com/@sellside/emitter/-/emitter-1.2.1.tgz#0dd839c30cdf01087f4dc63613503da6bcdf5f1e"
   integrity sha512-P1rUad4vDnp4d5HB7NEJ/MDf4zg3pM2Q8ZXJ2xgGkGo5yckyDn56YPAvUGH+1VsOud5dbli8MZu14j/EcNZCGw==
 
-"@trpc/client@^9.20.1":
-  version "9.20.1"
-  resolved "https://registry.yarnpkg.com/@trpc/client/-/client-9.20.1.tgz#a9a5e5e4ebceacb18f31950838942a02a37b9138"
-  integrity sha512-nsRToriDb6ny5UpgNGB/ux2NXGmSs4/cWh9QREXi8S3jbDogFjs++J+xRzq5Q5RHtchcyOile5wxtIy3iHVhtQ==
+"@trpc/client@^9.18.0":
+  version "9.21.0"
+  resolved "https://registry.yarnpkg.com/@trpc/client/-/client-9.21.0.tgz#37368ee9f4ed969af0a82cc4d4f2cab91a267002"
+  integrity sha512-o1z6Esq74eaUjneMn6K1KHXgCUXVmvRkZXZlqb1mdZ+6I/RznGOVQwgEqEkGm8Ykm1eGD12qJQQF9L5dSg1aBg==
   dependencies:
     "@babel/runtime" "^7.9.0"
 
-"@trpc/react@^9.20.1":
-  version "9.20.1"
-  resolved "https://registry.yarnpkg.com/@trpc/react/-/react-9.20.1.tgz#64a97ec1892aba2ea9d38b28b6de1b6a90ba348b"
-  integrity sha512-hz03YP2nL6yTknEtNQkRK2fx2ZY1cWW708CxHAUuWlyUX9NPSiHVEN1qirhceOeLiBDSmXGD9+CunxBSMAci+A==
+"@trpc/react@^9.18.0":
+  version "9.21.0"
+  resolved "https://registry.yarnpkg.com/@trpc/react/-/react-9.21.0.tgz#7c7cf8e92c86fad90954224cb39cfb70d711ce2d"
+  integrity sha512-s1fCn5Y6szYARM/qjaIGDa8AZlAWIE8maSXPQqdrBsVsKnb+qk2fMQOmGqaW65ciwxOmCWlttre4crAoJpggOw==
   dependencies:
     "@babel/runtime" "^7.9.0"
 
@@ -4536,9 +4536,9 @@ minimatch@^3.0.4:
     brace-expansion "^1.1.7"
 
 minimist@^1.1.1, minimist@^1.2.0, minimist@^1.2.5:
-  version "1.2.5"
-  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.5.tgz#67d66014b66a6a8aaa0c083c5fd58df4e4e97602"
-  integrity sha512-FM9nNUYrRBAELZQT3xeZQ7fmMOBg6nWNmJKTcgsJeaLstP/UODVpGsr5OhXhhXg6f+qtJ8uiZ+PUxkDWcgIXLw==
+  version "1.2.6"
+  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.6.tgz#8637a5b759ea0d6e98702cfb3a9283323c93af44"
+  integrity sha512-Jsjnk4bw3YJqYzbdyBiNsPWHPfO++UGG749Cxs6peCu5Xg4nrena6OVxOYxrQTqww0Jmwt+Ref8rggumkTLz9Q==
 
 mixin-deep@^1.2.0:
   version "1.3.2"
@@ -5336,10 +5336,10 @@ react-dom@^17.0.2:
     object-assign "^4.1.1"
     scheduler "^0.20.2"
 
-react-query@^3.34.16:
-  version "3.34.16"
-  resolved "https://registry.yarnpkg.com/react-query/-/react-query-3.34.16.tgz#279ea180bcaeaec49c7864b29d1711ee9f152594"
-  integrity sha512-7FvBvjgEM4YQ8nPfmAr+lJfbW95uyW/TVjFoi2GwCkF33/S8ajx45tuPHPFGWs4qYwPy1mzwxD4IQfpUDrefNQ==
+react-query@^3.34.12:
+  version "3.34.19"
+  resolved "https://registry.yarnpkg.com/react-query/-/react-query-3.34.19.tgz#0ff049b6e0d2ed148e9abfdd346625d0e88dc229"
+  integrity sha512-JO0Ymi58WKmvnhgg6bGIrYIeKb64KsKaPWo8JcGnmK2jJxAs2XmMBzlP75ZepSU7CHzcsWtIIyhMrLbX3pb/3w==
   dependencies:
     "@babel/runtime" "^7.5.5"
     broadcast-channel "^3.4.1"
