@@ -1033,17 +1033,17 @@
   resolved "https://registry.yarnpkg.com/@sellside/emitter/-/emitter-1.2.1.tgz#0dd839c30cdf01087f4dc63613503da6bcdf5f1e"
   integrity sha512-P1rUad4vDnp4d5HB7NEJ/MDf4zg3pM2Q8ZXJ2xgGkGo5yckyDn56YPAvUGH+1VsOud5dbli8MZu14j/EcNZCGw==
 
-"@trpc/client@^9.20.1":
-  version "9.20.1"
-  resolved "https://registry.yarnpkg.com/@trpc/client/-/client-9.20.1.tgz#a9a5e5e4ebceacb18f31950838942a02a37b9138"
-  integrity sha512-nsRToriDb6ny5UpgNGB/ux2NXGmSs4/cWh9QREXi8S3jbDogFjs++J+xRzq5Q5RHtchcyOile5wxtIy3iHVhtQ==
+"@trpc/client@^9.18.0":
+  version "9.23.2"
+  resolved "https://registry.yarnpkg.com/@trpc/client/-/client-9.23.2.tgz#db833db0884b5121b355ae70e6f7b36e66e58814"
+  integrity sha512-L4ZajhrrupESQXE565UekQH6SDXoL4zCRTF5+/tZ+Y0YkE1DUdBmwBUwWSFIco/QkkMdzNovjZU1xEEWMc+0rw==
   dependencies:
     "@babel/runtime" "^7.9.0"
 
-"@trpc/react@^9.20.1":
-  version "9.20.1"
-  resolved "https://registry.yarnpkg.com/@trpc/react/-/react-9.20.1.tgz#64a97ec1892aba2ea9d38b28b6de1b6a90ba348b"
-  integrity sha512-hz03YP2nL6yTknEtNQkRK2fx2ZY1cWW708CxHAUuWlyUX9NPSiHVEN1qirhceOeLiBDSmXGD9+CunxBSMAci+A==
+"@trpc/react@^9.18.0":
+  version "9.23.2"
+  resolved "https://registry.yarnpkg.com/@trpc/react/-/react-9.23.2.tgz#35ac7bf7b1129813b8f741ca71384f405d2734b0"
+  integrity sha512-T30BCRUNPt5BcVqZMSrqhF1qBIUrSOxwLvyp6pr8CXYmnypPLHvdPm3cgxjddeMuVZg8aggU8lhfPkTuAZBpEw==
   dependencies:
     "@babel/runtime" "^7.9.0"
 
@@ -1857,9 +1857,9 @@ assign-symbols@^1.0.0:
   integrity sha1-WWZ/QfrdTyDMvCu5a41Pf3jsA2c=
 
 async@^2.0.0, async@^2.6.2:
-  version "2.6.3"
-  resolved "https://registry.yarnpkg.com/async/-/async-2.6.3.tgz#d72625e2344a3656e3a3ad4fa749fa83299d82ff"
-  integrity sha512-zflvls11DCy+dQWzTW2dzuilv8Z5X/pjfmZOWba6TNIVDm+2UDaJmXSOXlasHKfNBs8oo3M0aT50fDEWfKZjXg==
+  version "2.6.4"
+  resolved "https://registry.yarnpkg.com/async/-/async-2.6.4.tgz#706b7ff6084664cd7eae713f6f965433b5504221"
+  integrity sha512-mzo5dfJYwAn29PeiJ0zvwTo04zj8HDJj0Mn8TD7sno7q12prdbnasKJHhkm2c1LgrhlJ0teaea8860oxi51mGA==
   dependencies:
     lodash "^4.17.14"
 
@@ -5336,10 +5336,10 @@ react-dom@^17.0.2:
     object-assign "^4.1.1"
     scheduler "^0.20.2"
 
-react-query@^3.34.16:
-  version "3.34.16"
-  resolved "https://registry.yarnpkg.com/react-query/-/react-query-3.34.16.tgz#279ea180bcaeaec49c7864b29d1711ee9f152594"
-  integrity sha512-7FvBvjgEM4YQ8nPfmAr+lJfbW95uyW/TVjFoi2GwCkF33/S8ajx45tuPHPFGWs4qYwPy1mzwxD4IQfpUDrefNQ==
+react-query@^3.34.12:
+  version "3.38.0"
+  resolved "https://registry.yarnpkg.com/react-query/-/react-query-3.38.0.tgz#e7f4081e45ba47a4119e548ddcfd0fab18f0580e"
+  integrity sha512-VRbCTRrDfC5FsB70+JfZuxFRv9SAvkZ1h36MsN8+QaDN+NWB6s1vJndqpoLQnJqN0COTG2zsInMq0KFdYze6TA==
   dependencies:
     "@babel/runtime" "^7.5.5"
     broadcast-channel "^3.4.1"
